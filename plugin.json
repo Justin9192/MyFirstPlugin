@@ -1,0 +1,23 @@
+{
+  "slug": "MyFirstPlugin",
+  "name": "MyFirstPlugin",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "MyFirstPlugin",
+  "author": "loathe",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyFirstModule",
+      "name": "MyFirstModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
